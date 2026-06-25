@@ -230,7 +230,7 @@ Shows that stale predictions can cause prediction-augmented caching to fail, whi
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/casey2346/trust-aware-learning-augmented-caching.git
 cd trust-aware-learning-augmented-caching
 ```
 
